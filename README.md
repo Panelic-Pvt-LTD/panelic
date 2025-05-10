@@ -52,7 +52,7 @@ Pull requests are welcome! If you’ve got ideas for enhancements, feel free to 
 
 ## 📄 License
 
-MIT © [YourName]
+MIT © Panelic
 
 ---
 
