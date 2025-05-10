@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✨ PANELIC
 
 <img src="https://img.shields.io/badge/STATUS-DEVELOPMENT-FF5D8F?style=for-the-badge" alt="Status" />
@@ -7,14 +9,6 @@
 <p align="center">
   <i>Next-gen Pterodactyl dashboard experience</i>
 </p>
-
-<br/>
-
-<p align="center">
-  <img width="80%" src="https://i.imgur.com/placeholder-for-screenshot.png" alt="Panelic Dashboard Preview" />
-</p>
-
-</div>
 
 <p align="center">
   <b>SIMPLICITY • POWER • ELEGANCE</b>
@@ -83,13 +77,13 @@
 
 ## 🛠️ TECH STACK
 
-</div>
-
-<div align="center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-  <img height="60" src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" />
+  <img height="60" src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="Framer Motion" />
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+</div>
+
 </div>
 
 ---
